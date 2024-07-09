@@ -22,7 +22,7 @@ The Olympic Database project is designed to manage data related to the Olympic G
 
 The ER diagram for the Olympic Database is included in this repository. It outlines the entities, attributes, and relationships used in the database.
 
-![ER Diagram](path/to/your/er_diagram.png)
+![ER Diagram]
 
 ## Database Schema
 
