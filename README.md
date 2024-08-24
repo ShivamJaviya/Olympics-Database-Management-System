@@ -31,14 +31,10 @@ The database schema defines the structure of the database. It includes the table
 ![Screenshot (430)](https://github.com/ShivamJaviya/Olympics-Database-Management-System/assets/94696278/52d4542b-a7bb-4118-8471-e7d0c5f4e1d7)
 
 
+**Key Features**
 
-
-Introduction
-The Olympic Database project aims to create a comprehensive database system to manage and analyze data related to the Olympic Games. The primary goal of this project is to provide a structured and efficient way to store, retrieve, and manipulate data about athletes, events, medals, and participating countries. This project was developed as part of a Database Management Systems (DBMS) course, showcasing the principles of database design, implementation, and querying using SQL.
-
-Key Features
-Comprehensive Data Storage: The database is designed to store detailed information about athletes, events, medals, and participating countries.
-Relational Structure: The database uses a relational model to efficiently organize data and maintain relationships between different entities.
-SQL Implementation: SQL scripts are provided to create the database schema, populate it with data, and perform various queries.
-ER Diagram: An Entity-Relationship (ER) diagram is included to illustrate the database design and relationships between entities.
-Presentation: A PowerPoint presentation is included to provide an overview of the project, database design, and implementation details.
+- **Comprehensive Data Storage:** Organized storage for athletes, events, medals, and countries.
+- **Relational Structure:** Efficient data organization with clear relationships between entities.
+- **SQL Implementation:** SQL scripts for database creation, data population, and queries.
+- **ER Diagram:** Visual representation of the database structure and entity relationships.
+- **Presentation:** PowerPoint overview of the project’s design and implementation.
